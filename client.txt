@@ -1,0 +1,97 @@
+Script started on Fri 30 Nov 2018 10:12:45 AM CST
+sa169@uxb4:~/cs512/assn3/annes1C$ pwd
+/home/sa169/cs512/assn3/annes1C
+sa169@uxb4:~/cs512/assn3/annes1C$ date
+Fri Nov 30 10:13:02 CST 2018
+sa169@uxb4:~/cs512/assn3/annes1C$ javac *.java
+sa169@uxb4:~/cs512/assn3/annes1C$ ls -l
+total 27
+-rw------- 1 sa169 student   251 Nov 30 10:13 Article.class
+-rw------- 1 sa169 student   457 Nov 30 10:13 ArticleDetails.class
+-rw------- 1 sa169 student   610 Nov 30 08:24 ArticleDetails.java
+-rw------- 1 sa169 student   253 Nov 29 20:52 Article.java
+-rw------- 1 sa169 student   321 Nov 30 10:13 ArticleList.class
+-rw------- 1 sa169 student  7312 Nov 30 10:13 ArticleListClient.class
+-rw------- 1 sa169 student 11127 Nov 30 09:40 ArticleListClient.java
+-rw------- 1 sa169 student   333 Nov 29 20:48 ArticleList.java
+-rw------- 1 sa169 student     0 Nov 30 10:12 clientOut.txt
+-rw------- 1 sa169 student     0 Nov 30 10:12 client.txt
+-rw------- 1 sa169 student   219 Nov 30 00:11 java.policy
+-rw------- 1 sa169 student   979 Nov 30 10:01 readme.txt
+sa169@uxb4:~/cs512/assn3/annes1C$ java -Djava.security.policy=java.policy ArticleListClient
+Enter
+a: to do a submission with information about your favorite Article
+b: to ask for the name of the Article for which there have been the most submissions?
+c: to ask for the name of the Article with the best average rating over all submissions made so far?
+d: to ask for the total number of submissions that have been made so far for a particular Article author?
+e: to ask for the number of submissions made so far?
+f: to ask for a list of all Articles that have been submitted so far by all clients?
+g: exit
+a
+Enter author name of the Article
+Abc
+Enter title of the Article
+A great title
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2016
+Enter rating of Article out of 10
+9
+Article authorname: Abc, title:A great title, conference: USENIX Annual Technical Conference, year: 30, Rating: 30
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: to ask for the name of the Article for which there have been the most submissions?
+c: to ask for the name of the Article with the best average rating over all submissions made so far?
+d: to ask for the total number of submissions that have been made so far for a particular Article author?
+e: to ask for the number of submissions made so far?
+f: to ask for a list of all Articles that have been submitted so far by all clients?
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+An important idea
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2017
+Enter rating of Article out of 10
+8
+Article authorname: Def, title:An important idea, conference: USENIX Annual Technical Conference, year: 30, Rating: 30
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: to ask for the name of the Article for which there have been the most submissions?
+c: to ask for the name of the Article with the best average rating over all submissions made so far?
+d: to ask for the total number of submissions that have been made so far for a particular Article author?
+e: to ask for the number of submissions made so far?
+f: to ask for a list of all Articles that have been submitted so far by all clients?
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+Another great title
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2016
+Enter rating of Article out of 10
+exit
+Article authorname: Def, title:Another great title, conference: USENIX Annual Technical Conference, year: 30, Rating: 30
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: to ask for the name of the Article for which there have been the most submissions?
+c: to ask for the name of the Article with the best average rating over all submissions made so far?
+d: to ask for the total number of submissions that have been made so far for a particular Article author?
+e: to ask for the number of submissions made so far?
+f: to ask for a list of all Articles that have been submitted so far by all clients?
+g: exit
+g
+sa169@uxb4:~/cs512/assn3/annes1C$ exit
+exit
+
+Script done on Fri 30 Nov 2018 10:22:25 AM CST

@@ -1,0 +1,278 @@
+Script started on Fri 30 Nov 2018 10:47:42 AM CST
+sa169@uxb4:~/cs512/assn3/annes1C$ pwd
+/home/sa169/cs512/assn3/annes1C
+sa169@uxb4:~/cs512/assn3/annes1C$ date
+Fri Nov 30 10:47:50 CST 2018
+sa169@uxb4:~/cs512/assn3/annes1C$ ls -l[K[K[K[K[Kjavac *.java
+sa169@uxb4:~/cs512/assn3/annes1C$ ls -l
+total 32
+-rw------- 1 sa169 student   251 Nov 30 10:48 Article.class
+-rw------- 1 sa169 student   457 Nov 30 10:48 ArticleDetails.class
+-rw------- 1 sa169 student   610 Nov 30 08:24 ArticleDetails.java
+-rw------- 1 sa169 student   253 Nov 29 20:52 Article.java
+-rw------- 1 sa169 student   321 Nov 30 10:48 ArticleList.class
+-rw------- 1 sa169 student  7187 Nov 30 10:48 ArticleListClient.class
+-rw------- 1 sa169 student 11051 Nov 30 10:47 ArticleListClient.java
+-rw------- 1 sa169 student   333 Nov 29 20:48 ArticleList.java
+-rw------- 1 sa169 student     0 Nov 30 10:47 clientOut.txt
+-rw------- 1 sa169 student  4507 Nov 30 10:22 client.txt
+-rw------- 1 sa169 student   219 Nov 30 00:11 java.policy
+-rw------- 1 sa169 student   979 Nov 30 10:01 readme.txt
+sa169@uxb4:~/cs512/assn3/annes1C$ java -Djava.security.policy=java.policy ArticleListClient
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Abc
+Enter title of the Article
+A great title
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2016
+Enter rating of Article out of 10
+9
+Article authorname: Abc, title:A great title, conference: USENIX Annual Technical Conference, year: 2016, Rating: 9
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+An important idea
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2017
+Enter rating of Article out of 10
+8
+Article authorname: Def, title:An important idea, conference: USENIX Annual Technical Conference, year: 2017, Rating: 8
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+Another great title
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2016
+Enter rating of Article out of 10
+8
+Article authorname: Def, title:Another great title, conference: USENIX Annual Technical Conference, year: 2016, Rating: 8
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Abc
+Enter title of the Article
+Good things
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2015
+Enter rating of Article out of 10
+7
+Article authorname: Abc, title:Good things, conference: USENIX Annual Technical Conference, year: 2015, Rating: 7
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Abc
+Enter title of the Article
+Good things
+Enter conference of the Article
+PODC
+Enter year of the Article published
+2015
+Enter rating of Article out of 10
+7
+Article authorname: Abc, title:Good things, conference: PODC, year: 2015, Rating: 7
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+ghi   Ghi
+Enter title of the Article
+Important
+Enter conference of the Article
+ICPADS
+Enter year of the Article published
+2018
+Enter rating of Article out of 10
+9
+Article authorname: Ghi, title:Important, conference: ICPADS, year: 2018, Rating: 9
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Ghi
+Enter title of the Article
+Important II
+Enter conference of the Article
+ICPADS
+Enter year of the Article published
+2018
+Enter rating of Article out of 10
+9
+Article authorname: Ghi, title:Important II, conference: ICPADS, year: 2018, Rating: 9
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+An important idea II
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2018
+Enter rating of Article out of 10
+9
+Article authorname: Def, title:An important idea II, conference: USENIX Annual Technical Conference, year: 2018, Rating: 9
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+a
+Enter author name of the Article
+Def
+Enter title of the Article
+An important idea III
+Enter conference of the Article
+USENIX Annual Technical Conference
+Enter year of the Article published
+2018
+Enter rating of Article out of 10
+9
+Article authorname: Def, title:An important idea III, conference: USENIX Annual Technical Conference, year: 2018, Rating: 9
+uploaded Article Details to server
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+b
+The name of the Article for which there have been the most submissions: Abc
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+c
+Name of the Article with best average rating: Ghi
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+d
+Enter name of the Article
+Def
+the total number of submissions that have been made so far for Def Article: 4
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+e
+the number of submissions made so far :9
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+f
+Submissions made for below list of Articles
+Abc 
+Def 
+Ghi 
+Enter
+a: to do a submission with information about your favorite Article
+b: which author's name has been on the most submissions so far?
+c: which author has the best (highest) average rating over all submissions made so far?
+d: how many submissions have there been made so far for author
+e: how many submissions have there been so far?
+f: give a complete list of the different authors for which there have been submission(s)
+g: exit
+g
+sa169@uxb4:~/cs512/assn3/annes1C$ exit
+exit
+
+Script done on Fri 30 Nov 2018 11:07:24 AM CST

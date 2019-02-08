@@ -1,0 +1,56 @@
+Script started on Fri 30 Nov 2018 10:10:35 AM CST
+[48;5;54m                         [1;38;5;231m⢀⡀       [0m  [1;38;5;214mWelcome to Western Illinois University!
+[48;5;54m                         [1;38;5;231m⢸⡇       [0m
+[48;5;54m                         [1;38;5;231m⢸⡇       [0m  [1;38;5;214mHostname:[0m toolman02.wiu.edu
+[48;5;54m                         [1;38;5;231m⣴⣦       [0m  [1;38;5;214mOS:[0m CentOS 7.5.1804 x86_64
+[48;5;54m                        [1;38;5;231m⣀⣛⣋⣀      [0m  [1;38;5;214mKernel:[0m 3.10.0-862.14.4.el7.x86_64
+[48;5;54m                      [1;38;5;231m⣠⣾⣿⣿⡇⠙⣿⣆    [0m  [1;38;5;214mUptime:[0m 27 days, 8h 57m
+[48;5;54m                      [1;38;5;231m⠿⣛⣛⣛⣁⣀⣘⠛    [0m  [1;38;5;214mCPU:[0m Intel Xeon CPU E5-2697 v2 @ 2.70GHz
+[48;5;54m                    [1;38;5;231m⣰⡾⠛⠉⠉⢉⠉⠉⠉⠉⠑⠂  [0m  [1;38;5;214mRAM:[0m [1;32m822 MB [0m/ 3951 MB
+[48;5;54m                    [1;38;5;231m⠈⣣⣶⣿⣿⣿⡇  ⣷⣄   [0m   
+[48;5;54m                     [1;38;5;231m⣿⣿⣿⣿⣿⡇  ⢹⣿⡀  [0m  [1;38;5;214mUser:[0m sa169
+[48;5;54m                   [1;38;5;231m⣤⢰⣿⣿⣿⣿⣿⠄  ⠈⣿⣧  [0m  [1;38;5;214mShell:[0m False
+[48;5;54m                   [1;38;5;231m⠈⣻⣿⣿⣿⣿⣶⡆   ⠘⢯⡁ [0m  [1;38;5;214mTerminal:[0m Xterm
+[48;5;54m                [1;38;5;231m⣴ ⣴⣾⣿⠿⠿⠿⠛⠛⠁    ⠈⠁ [0m  [1;38;5;214mLast Login:[0m Fri Nov 30 10:04:51 from 
+[48;5;54m               [1;38;5;231m⠰⠾⣆⣉⠁   ⠰⣶⣶⣶⣶⡖   ⣀⡀[0m              27
+[48;5;54m               [1;38;5;231m⠰⣿⠿⣛  ⢰⡿⠿⣟⣿⣿⡍  ⠰⡿⣟⡃[0m   
+[48;5;54m             [1;38;5;231m⠐⢶⣶⣶⣾⣿⡄ ⢰⣿⣿⣿⡿⠿⠇  ⢰⣿⣿⡇[0m  [1;38;5;214mAvailable Tools and Compilers:[0m 
+[48;5;54m               [1;38;5;231m⣾⣿⣿⠛⠁ ⠸⠛⠛⠋⢁⣀   ⠸⠟⠛⠁[0m       C/C++: gcc/g++ v4.8.5 20150623 (Red ...
+[48;5;54m               [1;38;5;231m⠿⠿⠿ ⣴⡆  ⣀⣀⣼⣿    ⢰⣦ [0m        Java: java v1.8.0_191, javac v1.8.0_191
+[48;5;54m                [1;38;5;231m⣤⡄ ⣿⡇ ⣿⣿⣿⣿⣿    ⢸⣿ [0m      Python: v2.7.5, v3.4.9
+[48;5;54m                [1;38;5;231m⣿⡇ ⣿⡇ ⣿⣏ ⣽⣿ ⠐⣿⣷⢸⣿ [0m        Perl: v5.16.3
+[48;5;54m                [1;38;5;231m⣿⡇ ⣿⡇ ⣿⡇ ⢸⣿ ⢸⣿⣿⢸⣿ [0m  
+[48;5;54m                [1;38;5;231m⣿⡇ ⣿⡇ ⣿⡇ ⢸⣿ ⢸⣿⣿⢸⣿ [0m  
+[48;5;54m                [1;38;5;231m⣿⡇ ⣿⡇ ⣿⡇ ⢸⣿ ⢸⣿⣿⢸⣿ [0m  
+[0m
+]0;sa169@toolman02:~[?1034h[sa169@toolman02 ~]$ cd cs512/
+]0;sa169@toolman02:~/cs512[sa169@toolman02 cs512]$ cd assn3
+]0;sa169@toolman02:~/cs512/assn3[sa169@toolman02 assn3]$ cd as[Knnes1S/
+]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ pwd
+/home/sa169/cs512/assn3/annes1S
+]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ date
+Fri Nov 30 10:10:58 CST 2018
+]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ javac *.java
+]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ ls -l
+total 56
+-rw------- 1 sa169 student  251 Nov 30 10:11 Article.class
+-rw------- 1 sa169 student  457 Nov 30 10:11 ArticleDetails.class
+-rw------- 1 sa169 student  611 Nov 30 08:24 ArticleDetails.java
+-rw------- 1 sa169 student  322 Nov 29 19:56 Article.java
+-rw------- 1 sa169 student  321 Nov 30 10:11 ArticleList.class
+-rw------- 1 sa169 student  328 Nov 29 19:45 ArticleList.java
+-rw------- 1 sa169 student  911 Nov 30 10:11 ArticleListServant.class
+-rw------- 1 sa169 student  937 Nov 29 19:44 ArticleListServant.java
+-rw------- 1 sa169 student 1175 Nov 30 10:11 ArticleListServer.class
+-rw------- 1 sa169 student  688 Nov 29 23:50 ArticleListServer.java
+-rw------- 1 sa169 student  571 Nov 30 10:11 ArticleServant.class
+-rw------- 1 sa169 student  700 Nov 29 19:34 ArticleServant.java
+-rw------- 1 sa169 student  219 Nov 30 00:12 java.policy
+-rw------- 1 sa169 student  979 Nov 30 10:01 readme.txt
+-rw------- 1 sa169 student    0 Nov 30 10:10 serverOut.txt
+]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ java -Djava.security.policy=java.policy -Djava.rmi.server.codebase="file:/home/sa169/cs512/assn3/anned1S/" ArticleListServer
+ArticleList server ready
+^C]0;sa169@toolman02:~/cs512/assn3/annes1S[sa169@toolman02 annes1S]$ exit
+exit
+
+Script done on Fri 30 Nov 2018 10:42:14 AM CST
